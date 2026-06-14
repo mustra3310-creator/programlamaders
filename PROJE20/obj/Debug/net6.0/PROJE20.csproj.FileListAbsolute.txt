@@ -1,0 +1,14 @@
+C:\Users\MC\FINAL\Solution1\PROJE20\bin\Debug\net6.0\PROJE20.exe
+C:\Users\MC\FINAL\Solution1\PROJE20\bin\Debug\net6.0\PROJE20.deps.json
+C:\Users\MC\FINAL\Solution1\PROJE20\bin\Debug\net6.0\PROJE20.runtimeconfig.json
+C:\Users\MC\FINAL\Solution1\PROJE20\bin\Debug\net6.0\PROJE20.dll
+C:\Users\MC\FINAL\Solution1\PROJE20\bin\Debug\net6.0\PROJE20.pdb
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.AssemblyInfoInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.AssemblyInfo.cs
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.csproj.CoreCompileInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.dll
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\refint\PROJE20.dll
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.pdb
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\PROJE20.genruntimeconfig.cache
+C:\Users\MC\FINAL\Solution1\PROJE20\obj\Debug\net6.0\ref\PROJE20.dll

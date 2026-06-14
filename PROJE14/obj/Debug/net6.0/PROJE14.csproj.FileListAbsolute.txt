@@ -1,0 +1,14 @@
+C:\Users\MC\FINAL\Solution1\PROJE14\bin\Debug\net6.0\PROJE14.exe
+C:\Users\MC\FINAL\Solution1\PROJE14\bin\Debug\net6.0\PROJE14.deps.json
+C:\Users\MC\FINAL\Solution1\PROJE14\bin\Debug\net6.0\PROJE14.runtimeconfig.json
+C:\Users\MC\FINAL\Solution1\PROJE14\bin\Debug\net6.0\PROJE14.dll
+C:\Users\MC\FINAL\Solution1\PROJE14\bin\Debug\net6.0\PROJE14.pdb
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.AssemblyInfoInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.AssemblyInfo.cs
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.csproj.CoreCompileInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.dll
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\refint\PROJE14.dll
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.pdb
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\PROJE14.genruntimeconfig.cache
+C:\Users\MC\FINAL\Solution1\PROJE14\obj\Debug\net6.0\ref\PROJE14.dll

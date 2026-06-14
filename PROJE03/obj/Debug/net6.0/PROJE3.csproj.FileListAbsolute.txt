@@ -1,0 +1,14 @@
+C:\Users\MC\FINAL\Solution1\PROJE3\bin\Debug\net6.0\PROJE3.exe
+C:\Users\MC\FINAL\Solution1\PROJE3\bin\Debug\net6.0\PROJE3.deps.json
+C:\Users\MC\FINAL\Solution1\PROJE3\bin\Debug\net6.0\PROJE3.runtimeconfig.json
+C:\Users\MC\FINAL\Solution1\PROJE3\bin\Debug\net6.0\PROJE3.dll
+C:\Users\MC\FINAL\Solution1\PROJE3\bin\Debug\net6.0\PROJE3.pdb
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.AssemblyInfoInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.AssemblyInfo.cs
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.csproj.CoreCompileInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.dll
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\refint\PROJE3.dll
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.pdb
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\PROJE3.genruntimeconfig.cache
+C:\Users\MC\FINAL\Solution1\PROJE3\obj\Debug\net6.0\ref\PROJE3.dll

@@ -1,0 +1,14 @@
+C:\Users\MC\FINAL\Solution1\PROJE7\bin\Debug\net6.0\PROJE7.exe
+C:\Users\MC\FINAL\Solution1\PROJE7\bin\Debug\net6.0\PROJE7.deps.json
+C:\Users\MC\FINAL\Solution1\PROJE7\bin\Debug\net6.0\PROJE7.runtimeconfig.json
+C:\Users\MC\FINAL\Solution1\PROJE7\bin\Debug\net6.0\PROJE7.dll
+C:\Users\MC\FINAL\Solution1\PROJE7\bin\Debug\net6.0\PROJE7.pdb
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.AssemblyInfoInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.AssemblyInfo.cs
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.csproj.CoreCompileInputs.cache
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.dll
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\refint\PROJE7.dll
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.pdb
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\PROJE7.genruntimeconfig.cache
+C:\Users\MC\FINAL\Solution1\PROJE7\obj\Debug\net6.0\ref\PROJE7.dll
